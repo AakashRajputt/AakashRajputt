@@ -1,80 +1,127 @@
-<h1 align="center">Hey 👋, I'm Aakash Rajput</h1>
-<h3 align="center">🚀 Frontend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aakashhrajputt7/">LinkedIn</a> •
-  <a href="mailto:aakashrajput0709@gmail.com">Email</a> •
-  <a href="https://github.com/AakashRajputt">GitHub</a> •
-  <a href="https://leetcode.com/u/AakashhRajputt/">LeetCode</a>
-</p>
+# Hey, I'm Aakash Rajputt
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AakashRajputt&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=350&lines=Frontend+Developer;Always+Learning+and+Building!)
 
----
+*Building clean, responsive, and user-friendly web experiences*
 
-## 🧠 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=AakashRajputt&color=blueviolet&style=for-the-badge)
 
-🎓 Final-year B.Tech CSE (IoT) student  
-💻 Passionate about **Frontend Development**  
-⚡ Love building responsive and interactive web apps  
-🎯 Goal: Become a professional Frontend Engineer  
-
----
-
-## ⚙️ Tech Stack
-
-### 👨‍💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
-
-### 🛠 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
-
-
-
----
-
-## 🧠 LeetCode Stats
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashhrajputt7/)
+[![Instagram](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashrajput0709@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AakashhRajputt/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AakashRajputt)
+
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 About Me
 
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashRajputt&show_icons=true&theme=tokyonight)
+I'm a passionate **Frontend Developer** and final-year B.Tech CSE (IoT) student who loves building **responsive and interactive web applications**. From crafting clean UI components to solving DSA challenges, I thrive on turning ideas into polished digital experiences.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRajputt&layout=compact&theme=tokyonight)
+When I'm not coding, you'll find me sharpening my **problem-solving skills** on LeetCode or exploring new frontend technologies 💡
+
+> 💡 **Goal:** Become a professional Frontend Engineer building impactful, user-friendly products
 
 ---
 
-## 🔥 GitHub Streak
+## 🛠️ Tech Arsenal
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashRajputt&theme=tokyonight)
+<div>
 
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+### 🛠️ Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+  <summary><span style="font-size:1.2em; font-weight:bold;">Responsive Portfolio Website</span></summary>
+  <p>
+    A clean and modern personal portfolio showcasing frontend skills, projects, and achievements.<br>
+    <a href="https://github.com/AakashRajputt" target="_blank">View on GitHub</a>
+  </p>
+</details>
+
+<details>
+  <summary><span style="font-size:1.2em; font-weight:bold;">Interactive React Applications</span></summary>
+  <p>
+    Dynamic React-based web apps with component-driven architecture and responsive design.<br>
+    <a href="https://github.com/AakashRajputt" target="_blank">View on GitHub</a>
+  </p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AakashRajputt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRajputt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+    </td>
+  </tr>
+</table>
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashRajputt&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
 
 ---
 
 ## 💡 Strengths
 
-✔ Responsive Web Design  
-✔ Problem Solving  
-✔ Quick Learner  
-✔ Teamwork & Communication  
+- ✔ Responsive Web Design
+- ✔ Problem Solving & DSA
+- ✔ Quick Learner
+- ✔ Teamwork & Communication
 
 ---
 
-## 📍 Location
+## 💫 Personal Philosophy
 
-📍 Khatauli, Uttar Pradesh, India  
+<div align="center">
+
+> *"Building clean, responsive, and user-friendly web experiences."*
+
+*I believe in creating technology that is accessible, intuitive, and meaningful — bridging design and functionality, one component at a time.*
+
+</div>
 
 ---
 
-⭐ *"Building clean, responsive, and user-friendly web experiences."*
+## 🏆 GitHub Achievements
+
+<div>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AakashRajputt&theme=tokyonight&no-frame=true&column=9&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+<div align="center">
+
+📍 Khatauli, Uttar Pradesh, India
+
+*Last updated: March 2026*
+
+</div>
