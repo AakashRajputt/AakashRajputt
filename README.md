@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AakashRajputt&color=blueviolet&style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashhrajputt7/)
-[![Instagram](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashrajput0709@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashrajput0709@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AakashhRajputt/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AakashRajputt)
 
@@ -19,8 +19,11 @@
 ---
 
 ## 🎯 About Me
+🎓 Final-year B.Tech CSE (IoT) student 
 
-I'm a passionate **Frontend Developer** and final-year B.Tech CSE (IoT) student who loves building **responsive and interactive web applications**. From crafting clean UI components to solving DSA challenges, I thrive on turning ideas into polished digital experiences.
+💻 Passionate about **Frontend Development** 
+
+⚡ Love building responsive and interactive web apps 
 
 When I'm not coding, you'll find me sharpening my **problem-solving skills** on LeetCode or exploring new frontend technologies 💡
 
@@ -40,30 +43,15 @@ When I'm not coding, you'll find me sharpening my **problem-solving skills** on 
 
 ### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 LeetCode Stats
 
-<details>
-  <summary><span style="font-size:1.2em; font-weight:bold;">Responsive Portfolio Website</span></summary>
-  <p>
-    A clean and modern personal portfolio showcasing frontend skills, projects, and achievements.<br>
-    <a href="https://github.com/AakashRajputt" target="_blank">View on GitHub</a>
-  </p>
-</details>
-
-<details>
-  <summary><span style="font-size:1.2em; font-weight:bold;">Interactive React Applications</span></summary>
-  <p>
-    Dynamic React-based web apps with component-driven architecture and responsive design.<br>
-    <a href="https://github.com/AakashRajputt" target="_blank">View on GitHub</a>
-  </p>
-</details>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AakashhRajputt/)
 
 ---
 
@@ -108,20 +96,10 @@ When I'm not coding, you'll find me sharpening my **problem-solving skills** on 
 
 ---
 
-## 🏆 GitHub Achievements
+<div align="Left">
 
-<div>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AakashRajputt&theme=tokyonight&no-frame=true&column=9&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-<div align="center">
-
+## 📍 Location
 📍 Khatauli, Uttar Pradesh, India
 
-*Last updated: March 2026*
 
 </div>
