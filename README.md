@@ -59,7 +59,6 @@ When I'm not coding, you'll find me sharpening my **problem-solving skills** on 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/>
-  <b>GitHub Analytics</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/>
 </p>
 
