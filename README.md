@@ -2,7 +2,7 @@
 
 # Hey, I'm Aakash Rajputt
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=350&lines=Frontend+Developer;Always+Learning+and+Building!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=230&lines=Frontend+Developer;Always+Learning)
 
 *Building clean, responsive, and user-friendly web experiences*
 
@@ -57,17 +57,11 @@ When I'm not coding, you'll find me sharpening my **problem-solving skills** on 
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AakashRajputt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRajputt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-    </td>
-  </tr>
-</table>
-<div align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/>
+  <b>GitHub Analytics</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/>
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashRajputt&theme=tokyonight&hide_border=true&background=0D1117)
 
